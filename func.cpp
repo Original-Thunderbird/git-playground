@@ -2,6 +2,7 @@ inlcude <iostream>
 
 using namespace std;
 
-void main({
-	
-)
+void main{
+    printf("hello world!")
+    return;
+}
